@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: ${GITLAB}
-          username: ${USERNAME}
-          password: ${PASSWORD}
+          uri: ${CONFIG_REPO_URL}
+          username: ${CONFIG_REPO_USERNAME}
+          password: ${CONFIG_REPO_PASSWORD}
