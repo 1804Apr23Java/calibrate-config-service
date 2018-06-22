@@ -8,28 +8,14 @@
   	<version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
   	<parent>
-=======
-    <parent>
->>>>>>> parent of 72895b4... updated pom versin numbers
-=======
-    <parent>
->>>>>>> parent of 72895b4... updated pom versin numbers
+
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.0.2.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
-<<<<<<< HEAD
-<<<<<<< HEAD
 	</parent>
-=======
-    </parent>
->>>>>>> parent of 72895b4... updated pom versin numbers
-=======
-    </parent>
->>>>>>> parent of 72895b4... updated pom versin numbers
+
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
