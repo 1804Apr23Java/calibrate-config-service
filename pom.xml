@@ -5,13 +5,13 @@
 
     <groupId>com.revature</groupId>
     <artifactId>calibrate-config-service</artifactId>
-    <version>1.0-SNAPSHOT</version>
+  	<version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
   	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.9.RELEASE</version>
+		<version>2.0.1.RELEASE</version>
 	</parent>
 
     <properties>
