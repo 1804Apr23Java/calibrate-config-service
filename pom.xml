@@ -9,7 +9,11 @@
     <packaging>jar</packaging>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   	<parent>
+=======
+    <parent>
+>>>>>>> parent of 72895b4... updated pom versin numbers
 =======
     <parent>
 >>>>>>> parent of 72895b4... updated pom versin numbers
@@ -18,7 +22,11 @@
         <version>2.0.2.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
 <<<<<<< HEAD
+<<<<<<< HEAD
 	</parent>
+=======
+    </parent>
+>>>>>>> parent of 72895b4... updated pom versin numbers
 =======
     </parent>
 >>>>>>> parent of 72895b4... updated pom versin numbers
